@@ -1,0 +1,160 @@
+data = [
+    {
+        "data": {
+            "id": "A"
+        }
+    },
+    {
+        "data": {
+            "id": "B"
+        }
+    },
+    {
+        "data": {
+            "id": "C"
+        }
+    },
+    {
+        "data": {
+            "id": "D"
+        }
+    },
+    {
+        "data": {
+            "id": "E"
+        }
+    },
+    {
+        "data": {
+            "id": "F"
+        }
+    },
+    {
+        "data": {
+            "id": "G"
+        }
+    },
+    {
+        "data": {
+            "id": "H"
+        }
+    },
+    {
+        "data": {
+            "id": "I"
+        }
+    },
+    {
+        "data": {
+            "id": "J"
+        }
+    },
+    {
+        "data": {
+            "id": "K"
+        }
+    },
+    {
+        "data": {
+            "boldframe": "0",
+            "disappearframe": "8",
+            "id": "A_B",
+            "source": "A",
+            "target": "B"
+        }
+    },
+    {
+        "data": {
+            "boldframe": "1",
+            "disappearframe": "8",
+            "id": "B_C",
+            "source": "B",
+            "target": "C"
+        }
+    },
+    {
+        "data": {
+            "boldframe": "2",
+            "disappearframe": "9",
+            "id": "C_D",
+            "source": "C",
+            "target": "D"
+        }
+    },
+    {
+        "data": {
+            "arrowheadframe": "1",
+            "boldframe": "3",
+            "disappearframe": "9",
+            "id": "D_E",
+            "source": "D",
+            "target": "E"
+        }
+    },
+    {
+        "data": {
+            "arrowheadframe": "3",
+            "boldframe": "4",
+            "disappearframe": "10",
+            "id": "E_F",
+            "source": "E",
+            "target": "F"
+        }
+    },
+    {
+        "data": {
+            "appearframe": "3",
+            "arrowheadframe": "5",
+            "boldframe": "5",
+            "disappearframe": "10",
+            "id": "F_G",
+            "source": "F",
+            "target": "G"
+        }
+    },
+    {
+        "data": {
+            "appearframe": "4",
+            "arrowheadframe": "7",
+            "boldframe": "6",
+            "id": "G_H",
+            "source": "G",
+            "target": "H"
+        }
+    },
+    {
+        "data": {
+            "arrowheadframe": "9",
+            "boldframe": "7",
+            "id": "G_I",
+            "source": "G",
+            "target": "I"
+        }
+    },
+    {
+        "data": {
+            "appearframe": "5",
+            "boldframe": "8",
+            "id": "I_J",
+            "source": "I",
+            "target": "J"
+        }
+    },
+    {
+        "data": {
+            "boldframe": "9",
+            "id": "J_K",
+            "source": "J",
+            "target": "K"
+        }
+    },
+    {
+        "data": {
+            "appearframe": "6",
+            "boldframe": "10",
+            "id": "I_A",
+            "source": "I",
+            "target": "A"
+        }
+    }
+]

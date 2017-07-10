@@ -1,0 +1,39 @@
+<!doctype html>
+
+<html>
+
+<head>
+    <title>index5</title>
+    <script src="js/cytoscape.js"></script>
+    <script src="data.json"></script>
+</head>
+
+<style>
+    body, button {
+      font-family: helvetica, sans-serif;
+      font-size: 18px;
+    }
+
+#cy {
+  position: absolute;
+  left: 0;
+  top: 60px;
+  right: 0;
+  bottom: 0;
+}
+
+</style>
+
+<body>
+    <div id='frame'>
+      <h1>Frame: 0 </h1>
+    </div>
+    
+    <button type="button" onclick='frameNav.prevFrame()'>&larr;</button>
+    <button type="button" onclick='frameNav.nextFrame()'>&rarr;</button>
+    
+    <div id="cy"></div>
+    
+    <script src="js/code.js"></script>
+</body>
+</html>
