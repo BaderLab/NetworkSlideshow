@@ -9,6 +9,6 @@ An app allowing for edges in a Cytoscape.js network to appear, disappear, and ch
   	* Arrowheadframe: The frame you want the arrow for the connection to appear (set to zero to always appear, leave blank or set to NA to never appear)
   	* Boldframe: The frame you want the connection to become bolded (set to zero to always be bolded, leave blank or set to NA to never become bolded)
 
-2. Run jsonupdate.py to update the data.json file that is used to create the cytoscapejs network.
+2. Run jsonupdate.py to update the data.json file that is used to create the Cytoscape.js network.
 
 3. Click index.html to open your graph. Click the arrows or use your arrow keys to navigate back and forth between frames.
